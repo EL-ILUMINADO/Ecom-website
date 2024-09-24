@@ -544,6 +544,7 @@ footer {
 
     .new-season {
         flex-direction: column;
+        margin-top: 250px;
     }
 
     .new-season-item:nth-child(2){
